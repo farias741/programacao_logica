@@ -1,3 +1,5 @@
+# Distribuição de Poisson
+
 from math import pow, factorial
 
 def poisson(x,lam):
