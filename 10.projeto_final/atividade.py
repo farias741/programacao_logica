@@ -1,4 +1,4 @@
-# Atividade
+## Atividade
 
 # Você deve desenvolver um programa que leia pelo menos 50 números gerados naturalmente
 # Estes números deve estar no código fonte e não inseridos pelo usuário
